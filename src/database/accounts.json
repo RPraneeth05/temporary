@@ -1,0 +1,29 @@
+[
+  {
+    "fname": "Praneeth",
+    "lname": "Rangarajan",
+    "grade": 12,
+    "username": "prangarajan",
+    "password": "Admin123",
+    "points": 1000,
+    "admin": true
+  },
+  {
+    "fname": "Sai",
+    "lname": "Nallani",
+    "grade": "10",
+    "username": "snallani",
+    "password": "jl66oo3h",
+    "points": 0,
+    "admin": false
+  },
+  {
+    "fname": "Hello",
+    "lname": "World",
+    "grade": "12",
+    "username": "hworld",
+    "password": "awehqrkj",
+    "points": 0,
+    "admin": false
+  }
+]

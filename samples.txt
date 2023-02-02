@@ -1,0 +1,28 @@
+{
+   "event_name": "Sample name",
+   "event_description": "Sample description",
+   "prize": "100",
+   "start_date": "2/1/2023",
+   "end_date": "2/2/2023",
+   "participants": []
+}
+
+{
+   "student_fname": "Praneeth",
+   "student_lname": "Rangarajan",
+   "student_grade": 12,
+   "username": "prangarajan",
+   "password": "Default123",
+   "points": 1000,
+   "admin": true
+}
+
+{
+   "student_fname": "Rithwak",
+   "student_lname": "Somepalli",
+   "student_grade": 12,
+   "username": "srithwak",
+   "password": "Default123",
+   "points": 1000,
+   "admin": true
+}
