@@ -13,6 +13,6 @@
    "author": "RPraneeth05",
    "license": "ISC",
    "dependencies": {
-      "electron": "^22.1.0"
+      "electron": "^22.2.0"
    }
 }
