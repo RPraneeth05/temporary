@@ -1,5 +1,6 @@
 [
   {
+    "key": 0,
     "fname": "Praneeth",
     "lname": "Rangarajan",
     "grade": 12,
@@ -8,7 +9,8 @@
     "points": 1000,
     "admin": true
   },
-  {
+  { 
+    "key": 1,
     "fname": "Sai",
     "lname": "Nallani",
     "grade": "10",
@@ -18,12 +20,33 @@
     "admin": false
   },
   {
+    "key": 2,
     "fname": "Hello",
     "lname": "World",
     "grade": "12",
     "username": "hworld",
     "password": "awehqrkj",
     "points": 0,
+    "admin": false
+  },
+  {
+    "key": 3,
+    "fname": "test1f",
+    "lname": "test1l",
+    "grade": "10",
+    "username": "ttest1f",
+    "password": "admin",
+    "points": 0,
+    "admin": true
+  },
+  {
+    "key": 4,
+    "fname": "test2f",
+    "lname": "test2l",
+    "grade": "10",
+    "username": "ttest2l",
+    "password": "student",
+    "points": "600",
     "admin": false
   }
 ]
