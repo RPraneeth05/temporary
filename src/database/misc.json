@@ -1,0 +1,12 @@
+{
+  "obj": {
+    "key": 4,
+    "fname": "test2f",
+    "lname": "test2l",
+    "grade": "10",
+    "username": "ttest2l",
+    "password": "student",
+    "points": "600",
+    "admin": false
+  }
+}
